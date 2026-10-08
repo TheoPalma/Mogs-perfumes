@@ -298,7 +298,105 @@ const products = {
 
         image:
             "imagens/pure aruma.webp"
-    }
+    },
+
+    "nebras": {
+
+        name:
+            "Nebras de Lattafa Perfumes",
+
+        brand:
+            "Lattafa",
+
+        description:
+            "Lattafa Nebras de Lattafa Perfumes é um perfume Oriental Baunilha Compartilhável. As notas de topo são Bagas Vermelhas e Mandarina. As notas de coração são Baunilha, Cacau e Rosa. As notas de fundo são Açúcar, Fava Tonka, Âmbar e Almíscar.",
+        image:
+            "imagens/Nebras.webp"
+    },
+
+    "nebras-elixir": {
+
+        name:
+            "Nebras Elixir de Lattafa Perfumes",
+
+        brand:
+            "Lattafa",
+
+        description:
+            "Nebras Elixir de Lattafa Perfumes é um perfume Oriental Baunilha Compartilhável. As notas de topo são Bala de Leite e Chantilly. As notas de coração são Cana-de-Açúcar e Heliotrópio. As notas de fundo são Baunilha, Ambroxan e Almíscar.",
+
+        image:
+            "imagens/nebras elixir.webp"
+    },
+
+    "ramz": {
+
+        name:
+            "Ramz de Lattafa Perfumes",
+
+        brand:
+            "Lattafa",
+
+        description:
+            "Ramz Lattafa Silver de Lattafa Perfumes é um perfume Oriental Baunilha Compartilhável. As notas de topo são Pera, Lavanda, Hortelã e Bergamota. As notas de coração são Cardamomo e Sálvia. As notas de fundo são Baunilha, Âmbar, Almíscar e Patchouli.",
+
+        image:
+            "imagens/ramz.webp"
+
+    },
+
+    "vanilla-espresso": {
+
+        name:
+            "Vanilla Espresso de Aurora Scents",
+
+        brand:
+            "Aurora Scents",
+
+        description:
+            "Vanilla Espresso é uma fragrância Gourmand de baunilha. As notas são Café, Sorvete, Baunilha, Creme de Baunilha, Chantilly e Açúcar Mascavo, criando um perfil cremoso e adocicado que lembra um café com sorvete de baunilha.",
+
+        image:
+            "imagens/vanilla espresso.jpg",
+
+        prices: {
+            2: 29.90,
+            5: 42.90
+        }
+
+    },
+
+    "ajayeb": {
+
+        name:
+            "Ajayeb de Lattafa Perfumes",
+
+        brand:
+            "Lattafa",
+
+        description:
+            "Ajayeb Dubai de Lattafa Perfumes é um perfume Compartilhável. As notas de topo são Açafrão e Abacaxi. As notas de coração são Café e Folhas de Violeta. As notas de fundo são Manteiga de Caramelo, Baunilha e Sândalo.",
+        image:
+            "imagens/ajayeb.webp"
+    },
+
+    "qaed-al-fursan": {
+
+        name:
+            "Qaed Al Fursan de Lattafa Perfumes",
+
+        brand:
+            "Lattafa",
+
+        description:
+            "Qaed Al Fursan de Lattafa Perfumes é um perfume Oriental Amadeirado Compartilhável. As notas de topo são Abacaxi e Açafrão. As notas de coração são Bálsamo de Abeto e Jasmim. As notas de fundo são Madeira de Cedro, Âmbar e Oud.",
+        image:
+            "imagens/qaed.webp"
+    },
+
+
+
+
 
 };
 
@@ -594,8 +692,8 @@ function renderCart() {
                         ${item.volume}ml
                         ·
                         R$ ${item.price
-                            .toFixed(2)
-                            .replace(".", ",")}
+                .toFixed(2)
+                .replace(".", ",")}
                             cada
                     </p>
 
@@ -627,8 +725,8 @@ function renderCart() {
 
                         R$
                         ${subtotal
-                            .toFixed(2)
-                            .replace(".", ",")}
+                .toFixed(2)
+                .replace(".", ",")}
 
                     </div>
 
@@ -756,7 +854,7 @@ function goToCheckout() {
             .replace(".", ",")}`;
 
 
-    
+
 
 
 }
