@@ -380,6 +380,299 @@ const products = {
             "imagens/ajayeb.webp"
     },
 
+    "supremacy-not-only-intense": {
+
+        name:
+            "Supremacy Not Only Intense de Afnan",
+
+        brand:
+            "Afnan",
+
+        description:
+            "Supremacy Not Only Intense de Afnan é um perfume Masculino. As notas de topo são Groselha Preta, Bergamota e Maçã. As notas de coração são Musgo de Carvalho, Patchouli e Lavanda. As notas de fundo são Âmbar Cinzento, Almíscar e Açafrão.",
+        image:
+            "imagens/supremacy intense.webp",
+
+        prices: {
+            2: 39.90,
+            5: 52.90
+        }
+    },
+
+    "9pm-rebel": {
+
+        name:
+            "9PM Rebel de Afnan",
+
+        brand:
+            "Afnan",
+
+        description:
+            "9PM Rebel de Afnan é um perfume Compartilhável. As notas de topo são Abacaxi, Maçã Granny Smith e Mandarina. As notas de coração são Musgo de Carvalho, Cedro e Baunilha. As notas de fundo são Madeira Seca, Âmbar Cinzento, Caramelo e Almíscar.",
+        image:
+            "imagens/9pm rebel.webp"
+    },
+
+    "9am-dive": {
+
+        name:
+            "9AM Dive de Afnan",
+
+        brand:
+            "Afnan",
+
+        description:
+            "9AM Dive de Afnan é um perfume Compartilhável. As notas de topo são Limão, Hortelã, Groselha Preta e Pimenta Rosa. As notas de coração são Maçã, Cedro e Incenso. As notas de fundo são Gengibre, Sândalo, Patchouli e Jasmim.",
+        image:
+            "imagens/9am dive.webp"
+    },
+
+    "turathi-blue": {
+
+        name:
+            "Turathi Blue de Afnan",
+
+        brand:
+            "Afnan",
+
+        description:
+            "Turathi Blue de Afnan é um perfume Masculino. As notas de topo são Bergamota e Mandarina. As notas de coração são Âmbar e Notas Amadeiradas. As notas de fundo são Almíscar, Patchouli e Especiarias.",
+        image:
+            "imagens/turathi blue.webp"
+    },
+
+    "supremacy-pink": {
+
+        name:
+            "Supremacy Pink de Afnan",
+
+        brand:
+            "Afnan",
+
+        description:
+            "Supremacy Pink de Afnan é um perfume Feminino. As notas de topo são Pimenta Rosa e Violeta. As notas de coração são Rosa, Peônia e Lírio-do-Vale. As notas de fundo são Almíscar e Âmbar.",
+        image:
+            "imagens/supremacy pink.jpg",
+
+        prices: {
+            2: 39.90,
+            5: 52.90
+        }
+    },
+
+    "turathi-eletric": {
+
+        name:
+            "Turathi Electric de Afnan",
+
+        brand:
+            "Afnan",
+
+        description:
+            "Turathi Electric de Afnan é um perfume Compartilhável. As notas de topo são Bergamota, Toranja Rosa, Pera e Mandarina. As notas de coração são Maçã, Cedro e Flor de Laranjeira. As notas de fundo são Baunilha, Âmbar, Almíscar e Ambroxan.",
+        image:
+            "imagens/turathi eletric.webp"
+    },
+
+    "supremacy-silver": {
+
+        name:
+            "Supremacy Silver de Afnan",
+
+        brand:
+            "Afnan",
+
+        description:
+            "Supremacy Silver de Afnan é um perfume Amadeirado Floral Almiscarado Masculino. As notas de topo são Abacaxi, Bergamota, Groselha Preta e Maçã. As notas de coração são Bétula, Patchouli, Jasmim Marroquino e Rosa. As notas de fundo são Almíscar, Musgo de Carvalho, Âmbar Cinzento e Baunilha.",
+        image:
+            "imagens/supremacy silver.webp",
+
+        prices: {
+            2: 39.90,
+            5: 52.90
+        }
+    },
+
+    "9pm-elixir": {
+
+        name:
+            "9PM Elixir de Afnan",
+
+        brand:
+            "Afnan",
+
+        description:
+            "9 PM Elixir de Afnan é um perfume Oriental Especiado Compartilhável. As notas de topo são Cardamomo, Noz-Moscada e Elemi. As notas de coração são Pimenta-da-Jamaica, Couro e Lavanda. As notas de fundo são Baunilha, Patchouli, Ládano e Cisto.",
+        image:
+            "imagens/9pm elixir.webp"
+    },
+
+    
+"kismet-angel": {
+
+    name:
+        "Kismet Angel de Maison Alhambra",
+
+    brand:
+        "maison",
+
+    description:
+        "Kismet Angel de Maison Alhambra é um perfume Oriental Baunilha Compartilhável. As notas de topo são Baunilha, Favo de Mel e Âmbar. As notas de coração são Conhaque, Canela, Caramelo e Fava-Tonca. A nota de fundo é Chocolate Amargo.",
+
+    image:
+        "imagens/kismet angel.webp"
+},
+
+"tobacco-touch": {
+
+    name:
+        "Tobacco Touch de Maison Alhambra",
+
+    brand:
+        "maison",
+
+    description:
+        "Tobacco Touch de Maison Alhambra é um perfume Compartilhável. As notas de topo são Tabaco e Notas Especiadas. As notas de coração são Tabaco, Baunilha, Fava-Tonca e Cacau. As notas de fundo são Frutas Secas e Notas Amadeiradas.",
+
+    image:
+        "imagens/tobacco touch.jpg"
+},
+
+"toscano-leather": {
+
+    name:
+        "Toscano Leather de Maison Alhambra",
+
+    brand:
+        "maison",
+
+    description:
+        "Toscano Leather de Maison Alhambra é um perfume Couro Compartilhável. As notas de topo são Notas Animálicas, Açafrão e Tomilho. As notas de coração são Couro, Framboesa, Notas Amadeiradas, Incenso e Jasmim. As notas de fundo são Couro e Âmbar.",
+
+    image:
+        "imagens/toscano leather.webp"
+},
+
+"lovely-cherie": {
+
+    name:
+        "Lovely Chèrie de Maison Alhambra",
+
+    brand:
+        "maison",
+
+    description:
+        "Lovely Chèrie de Maison Alhambra é um perfume Compartilhável. As notas de topo são Amêndoa Amarga e Rosa. As notas de coração são Cereja, Cereja Preta e Âmbar. As notas de fundo são Fava-Tonca, Toffee e Bálsamo do Peru.",
+
+    image:
+        "imagens/lovely cherie.jpg"
+},
+
+"yeah": {
+
+    name:
+        "Yeah! de Maison Alhambra",
+
+    brand:
+        "maison",
+
+    description:
+        "Yeah! de Maison Alhambra é um perfume Aromático Frutado Masculino. As notas de topo são Maçã, Gengibre e Bergamota. As notas de coração são Sálvia, Bagas de Zimbro e Gerânio. As notas de fundo são Madeira de Âmbar, Fava-Tonca, Cedro, Vetiver e Olíbano.",
+
+    image:
+        "imagens/yeah.webp"
+},
+
+"porto-neroli": {
+
+    name:
+        "Porto Neroli de Maison Alhambra",
+
+    brand:
+        "maison",
+
+    description:
+        "Porto Neroli de Maison Alhambra é um perfume Compartilhável. As notas de topo são Néroli, Limão, Mandarina, Laranja Amarga e Jasmim. As notas de coração são Flor de Laranjeira, Lavanda e Sal Marinho. As notas de fundo são Notas Herbais, Absinto e Âmbar.",
+
+    image:
+        "imagens/porto neroli.webp"
+},
+
+"jean-lowe-immortal": {
+
+    name:
+        "Jean Lowe Immortal de Maison Alhambra",
+
+    brand:
+        "maison",
+
+    description:
+        "Jean Lowe Immortal de Maison Alhambra é um perfume Oriental Masculino. As notas de topo são Gengibre, Toranja e Bergamota. As notas de coração são Alecrim, Notas Aquáticas, Sálvia e Gerânio. As notas de fundo são Ambroxan, Âmbar e Ládano.",
+
+    image:
+        "imagens/jean lowe immortal.jpg"
+},
+
+"amber-leather": {
+
+    name:
+        "Amber & Leather de Maison Alhambra",
+
+    brand:
+        "maison",
+
+    description:
+        "Amber & Leather de Maison Alhambra é um perfume Oriental Compartilhável. A nota de topo é Cardamomo. As notas de coração são Couro e Jasmim-Sambac. As notas de fundo são Âmbar, Musgo e Patchouli.",
+
+    image:
+        "imagens/amber leather.webp"
+},
+
+"karat": {
+
+    name:
+        "Karat de Maison Alhambra",
+
+    brand:
+        "maison",
+
+    description:
+        "Karat de Maison Alhambra é um perfume Floral Compartilhável. As notas de topo são Pêssego, Maracujá, Framboesa, Pera, Cassis, Notas Herbais e Notas Terrosas. A nota de coração é Lírio-do-Vale. As notas de fundo são Almíscar, Baunilha, Heliotrópio, Sândalo e Patchouli.",
+
+    image:
+        "imagens/karat.jpg"
+},
+
+"gusta": {
+
+    name:
+        "Gusta de Maison Alhambra",
+
+    brand:
+        "maison",
+
+    description:
+        "Gusta de Maison Alhambra é um perfume Aromático Aquático Compartilhável. As notas de topo são Mandarina, Bergamota, Laranja e Abacaxi. As notas de coração são Jasmim, Rosa, Âmbar e Violeta. As notas de fundo são Almíscar, Sândalo, Bétula, Madeira de Agar e Oud.",
+
+    image:
+        "imagens/gusta.webp"
+},
+
+
+    "turathi-brown":{
+
+        name:
+            "Turathi Brown de Afnan",
+        
+        brand:
+            "Afnan",
+
+        description:"Turathi Brown de Afnan é um perfume Amadeirado Especiado Masculino. As notas de topo são Âmbar, Patchouli, Notas Amadeiradas e Notas Ozônicas. As notas de coração são Notas Especiadas, Especiarias Aromáticas e Baunilha. As notas de fundo são Notas Balsâmicas, Rosa e Notas Aquáticas.",
+        image:
+            "imagens/turathi brown.webp"
+    },
+
+    
     "qaed-al-fursan": {
 
         name:
